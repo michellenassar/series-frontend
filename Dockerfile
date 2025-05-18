@@ -12,7 +12,7 @@ RUN npm install
 
 # Copy the rest of the source code
 COPY . .
-
+ 
 # Expose port 3000 (React default dev server port)
 EXPOSE 3000
 
