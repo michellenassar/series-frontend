@@ -30,7 +30,7 @@ function App() {
                 <Route path="/watched" element={<Watched />} />
                 <Route path="/search" element={<GenreSearch />} />
             </Routes>
-        </div>
+        </div> 
     );
 }
  
